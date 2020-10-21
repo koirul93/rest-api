@@ -1,0 +1,28 @@
+[
+{
+   "nama"   : "Koirul",
+   "umur"   : 27,
+   "NIM"    : "312511205",
+   "lulus"  : true,
+   "hobby"  :[
+       "codding", " Gamiing", "Musik"
+    ],
+    "Pembimbing"    : {
+        "pembimbing1" : "suyud",
+        "pembimbing2"  : "arif"
+    }
+},
+{
+    "nama"   : "Koirul",
+    "umur"   : 27,
+    "NIM"    : "312511205", 
+    "lulus"  : true,
+    "hobby"  :[
+        "codding", " Gamiing", "Musik"
+     ],
+     "Pembimbing"    : {
+         "pembimbing1" : "suyud",
+         "pembimbing2"  : "arif"
+     }
+ }
+]
